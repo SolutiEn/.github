@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img='https://github.com/SolutiEn/.github/blob/main/profile/logo2.jpg' width="50%" src="logo2.jpg">
+    <img src="https://github.com/SolutiEn/.github/blob/main/profile/logo2.jpg" width="50%" src="logo2.jpg">
 </p>
 
 ![Image](https://github.com/SolutiEn/.github/blob/main/profile/logo2.jpg)
