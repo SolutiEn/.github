@@ -1,4 +1,6 @@
-[[https://github.com/SolutiEn/.github/blob/main/profile/logo2.jpg|alt=octocat]]
+<p align="center" width="100%">
+    <img width="50%" src="logo2.jpg">
+</p>
 
 We are a research and consultancy company based in Tehran. Our focus is on    
 the energy industry with an integrative, evidence-based, and outcome-oriented    
