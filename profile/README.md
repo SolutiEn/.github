@@ -16,6 +16,6 @@ approach to provide solutions for public and private organizations in the sector
 </a>
 </p>
 <a href="https://t.me/solutien">
-   <img src="https://user-images.githubusercontent.com/57255601/190673844-4d65a68d-aa57-48c0-90e9-9676dec31fbe.png" align="center">
+   <img src="https://user-images.githubusercontent.com/57255601/190673844-4d65a68d-aa57-48c0-90e9-9676dec31fbe.png" align="center", width="10%">
 </a>
 </p>
