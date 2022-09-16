@@ -7,14 +7,9 @@ the energy industry with an integrative, evidence-based, and outcome-oriented
 approach to provide solutions for public and private organizations in the sector.    
 </p>
 
-<p align="center" width="100%">
+<p align="center" width="10%">
 <a href="https://www.linkedin.com/company/solutien/">
-   <img src="https://user-images.githubusercontent.com/57255601/190346969-a054ebd3-59f7-41be-b820-87a9ace2667f.png" align="center">
-</a>
-<a href="https://t.me/solutien">
-   <img src="https://user-images.githubusercontent.com/57255601/190351609-d2f0010d-49ce-4c1e-98bb-dd089b6e7577.png" align="center">
-</a>
-</p>
+   <img src="https://user-images.githubusercontent.com/57255601/190675008-67c2e779-3b5e-4fd5-a453-fe42bd38199d.png" align="center", width="10%">
 <a href="https://t.me/solutien">
    <img src="https://user-images.githubusercontent.com/57255601/190673844-4d65a68d-aa57-48c0-90e9-9676dec31fbe.png" align="center", width="10%">
 </a>
