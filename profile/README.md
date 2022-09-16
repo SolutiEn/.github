@@ -15,3 +15,4 @@ approach to provide solutions for public and private organizations in the sector
    <img src="https://user-images.githubusercontent.com/57255601/190351609-d2f0010d-49ce-4c1e-98bb-dd089b6e7577.png" align="center">
 </a>
 </p>
+![telegram-logo-png-0](https://user-images.githubusercontent.com/57255601/190673844-4d65a68d-aa57-48c0-90e9-9676dec31fbe.png)
